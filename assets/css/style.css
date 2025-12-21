@@ -3,3 +3,6 @@
   .navmenu .active:focus {
     color: #0575fd !important;
   }
+  .contact .map-container{
+        height: 820px !important;
+  }
